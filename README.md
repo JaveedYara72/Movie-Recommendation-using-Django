@@ -16,13 +16,7 @@ Do you like it? :heart: Follow me on [Twitter](https://twitter.com/InboxPraveen)
 
 ## 1. Demo :movie_camera:
 
-In this section, we try to understand through video demo to play around the project and what all can be achieved through it.
-
-1. [Movie Recommendation System Hosted Application Demo](https://movie-recommendation-8g56.onrender.com/)
-
-2. [Running MRS on local System](https://github.com/inboxpraveen/movie-recommendation-system/tree/master#42-running-in-local)
-
-3. Sample Screenshots
+1. Sample Screenshots
 
    1. Home Screen
 
@@ -41,10 +35,6 @@ In this section, we try to understand through video demo to play around the proj
       <img src="static/images/ss4.png" alt="Movie Recommended Results" />
 
 
-____
-
-***Please be slightly patient while I create and upload the demo video. Follow and star this project to get latest notifications and update. :raised_hands:***
-
 <hr>
 
 ## 2. Requirements :heavy_check_mark:
@@ -59,11 +49,7 @@ To build this project without any errors/issues, the following requirements need
 
 ## 3. Model Training :small_red_triangle_down:
 
-### 3.1 Training & Inference
-
-For complete guide to training your model and inference using the trained model, refer to "[Movie Recommendation System Python Notebook](https://github.com/inboxpraveen/movie-recommendation-system/blob/master/Movie_Recommendation_System_Complete_Guide.ipynb)".
-
-#### 3.2 Django Web Application Integration
+#### 3.q Django Web Application Integration
 
 [Here is a detailed blog](https://medium.com/analytics-vidhya/movie-recommendation-system-python-flask-web-application-heroku-deployment-7e39492b640c) explaining about complete approach and directory structure essential to understand Django integration.
 
@@ -77,7 +63,7 @@ For complete guide to training your model and inference using the trained model,
 
 #### 4.2 Running in Local
 
-I am assuming you have completed [section 2](https://github.com/inboxpraveen/movie-recommendation-system#2-requirements-heavy_check_mark) in the above reference for creating your environment. Let's start by activating it.
+Let's start by activating it.
 
 ```shell
 /path/to/env/bin/activate
